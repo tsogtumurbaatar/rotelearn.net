@@ -6,7 +6,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-This website was built Laravel, JQuery and database is Mysql. Laravel is a web application framework with expressive, elegant syntax. The purpose of this website is learn phrasal verbs by Repetition.
+This website was built by Laravel, JQuery and database is Mysql. Laravel is a web application framework with expressive, elegant syntax. The purpose of this website is learn phrasal verbs by Repetition.
 
 Repetition is one of most commonly used study strategies, and if you’ve ever reread a text or used flashcards to commit something to memory, you’ve practiced this method of learning.
 
